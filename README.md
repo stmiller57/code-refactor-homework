@@ -4,3 +4,6 @@ This homework project called for me to clean up and condense html and css code. 
 2. Condensing css classes to shorten the code. 
 3. Adding alt elements to photos.
 4. Checking links and fixing any broken links. 
+
+### Link to deployed site
+ https://stmiller57.github.io/code-refactor-homework/
